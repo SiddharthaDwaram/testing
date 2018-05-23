@@ -4,7 +4,7 @@
 		<pages>
 			<Page title="{i18n>title}">
 				<content>
-					<Label text="Testing Git pane"></Label>
+					<Label text="Testing"></Label>
 				</content>
 			</Page>
 		</pages>
