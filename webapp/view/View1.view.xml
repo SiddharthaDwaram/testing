@@ -4,10 +4,7 @@
 		<pages>
 			<Page title="{i18n>title}">
 				<content>
-
-					<Label text="Testing 123"></Label>
-
-					<Label text="Testing GIT with Update"></Label>
+					<Label text="Testing GIT with Update 12312312312"></Label>
 				</content>
 			</Page>
 		</pages>
